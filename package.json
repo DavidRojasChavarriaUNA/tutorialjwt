@@ -1,0 +1,8 @@
+{
+  "name": "tutorial_10",
+  "version": "0.0.0",
+  "dependencies": {
+    "jsonwebtoken": "latest",
+    "bcryptjs": "latest"
+  }
+}
